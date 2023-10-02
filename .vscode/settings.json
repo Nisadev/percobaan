@@ -1,0 +1,10 @@
+{
+  "window.zoomLevel": 0.2,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1c2c50",
+    "statusBar.background": "#263b6c",
+    "titleBar.activeBackground": "#0e265d"
+  }
+}
